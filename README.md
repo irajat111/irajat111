@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajat Singh</h1>
-<h3 align="center">A passionate Android development and REST API AND Microservices</h3>
+Hi 👋 I'm Rajat Singh,
+A B.Tech CSE graduate from SBSSU.<br><br><br>🚀 Current Focus : -<br>Android App Development (Kotlin)<br>Spring Boot (Learning)<br>MVVM Architecture | UI-focused Development<br><br><br>💡 I chose Java to master the fundamentals, Kotlin for industry-standard Android development, and now exploring Spring Boot to strengthen my backend skills.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irajat111&label=Profile%20views&color=0e75b6&style=flat" alt="irajat111" /> </p>
 
