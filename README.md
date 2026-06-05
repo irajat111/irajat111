@@ -14,8 +14,8 @@ A B.Tech CSE graduate from SBSSU.<br><br><br>🚀 Current Focus : -<br>Android A
 ![](https://nirzak-streak-stats.vercel.app/?user=irajat111&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irajat111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐍 Contribution Snake Animation:
-![Snake animation](https://github.com/irajat111/irajat111/blob/output/github-contribution-grid-snake-dark.svg)
+## 🐍 Contribution :
+![Snake animation](https://github.com/irajat111/irajat111/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=irajat111&theme=radical&no-frame=false&no-bg=true&margin-w=4)
