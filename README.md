@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋 I'm Rajat Singh,
-A B.Tech CSE graduate from SBSSU.<br><br>🚀 Current Focus : -<br>Android App Development (Kotlin)<br>JetPack Compose(Learning)<br>MVVM Architecture | UI-focused Development<br><br><br>💡 I chose Java to master the fundamentals, Kotlin for industry-standard Android development, and now exploring JetPack Compose to strengthen my Logic and UI skills.
+— a recent B.Tech Computer Science graduate with a strong command of Java and a solid DSA foundation, which shaped my problem-solving skills and ability to write optimized, scalable code.<br><br>🚀 Current Focus : -<br>Android App Development (Kotlin)<br>JetPack Compose(Learning)<br>MVVM Architecture | UI-focused Development<br><br><br>💡 I chose Java to master the fundamentals, Kotlin for industry-standard Android development, and now exploring JetPack Compose to strengthen my Logic and UI skills.
 
 
 ## 🌐 Socials:
